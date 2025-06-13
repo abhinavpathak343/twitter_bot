@@ -21,7 +21,7 @@ A Node.js Twitter bot that generates and automatically posts programmer thoughts
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SalehKhatri/twitter_bot.git
+git clone https://github.com/abhinavpathak343/twitter_bot.git
 cd twitter-bot
 ```
 
